@@ -81,6 +81,7 @@ function Card({ h5, h2, l1, l2, l3, l4, l5, l6, l7, l8 }) {
             <a href="#" class="btn btn-primary text-uppercase">Button</a> 
           </div> 
         </div> 
+
       </div> 
     </div> 
   ) 
