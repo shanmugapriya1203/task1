@@ -162,6 +162,7 @@ function Content({content,cart,setCart}) {
           }}> {isShow ?"Add to cart" :"Remove"}</button>
           </div> 
         </div> 
+
       </div> 
    
     ) 
